@@ -125,6 +125,7 @@ export type AdminPermission =
 export interface AdminUser {
   id: string;
   username: string;
+  password?: string;
   role: AdminRole;
   permissions: AdminPermission[];
   createdAt: string;

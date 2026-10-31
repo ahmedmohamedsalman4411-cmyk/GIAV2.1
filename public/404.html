@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>GIA Restaurant Dubai | مطعم جيا دبي</title>
+    <script type="text/javascript">
+      // GitHub Pages Single Page Apps automatic redirection
+      var pathSegmentsToKeep = 1;
+      var l = window.location;
+      var isSubpath = l.pathname.split('/').filter(Boolean).length > 0;
+      var repoSegment = isSubpath ? '/' + l.pathname.split('/').filter(Boolean)[0] : '';
+      
+      // Redirect to index.html with target route in query parameter
+      window.location.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+        repoSegment + '/?' +
+        (l.pathname.slice(repoSegment.length + 1) ? 'p=' + encodeURIComponent(l.pathname.slice(repoSegment.length + 1)) : '') +
+        (l.search ? '&' + l.search.slice(1) : '') +
+        l.hash
+      );
+    </script>
+  </head>
+  <body style="background-color: #faf8f5; font-family: sans-serif; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; color: #283618;">
+    <div style="text-align: center;">
+      <h1 style="font-family: serif; font-size: 2rem;">GIA Restaurant Dubai</h1>
+      <p style="color: #666; font-size: 0.9rem;">جاري تحويلك للصفحة المطلوبة...</p>
+    </div>
+  </body>
+</html>

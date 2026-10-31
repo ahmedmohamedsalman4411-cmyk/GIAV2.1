@@ -3,6 +3,7 @@ import { Search, Filter, Leaf, Flame, Star, Sparkles, AlertCircle, Calendar } fr
 import { SupportedLanguage, TRANSLATIONS } from '../i18n/translations';
 import { MenuItem } from '../types';
 import { DishSkeletonGrid } from './DishSkeleton';
+import { getAssetUrl } from '../utils/assetUrl';
 
 interface MenuPageProps {
   currentLang: SupportedLanguage;
@@ -234,7 +235,7 @@ export const MenuPage: React.FC<MenuPageProps> = ({
                 {/* Image */}
                 <div className="relative aspect-[16/10] bg-stone-100 overflow-hidden">
                   <img
-                    src={dish.image}
+                    src={getAssetUrl(dish.image)}
                     alt={getItemName(dish)}
                     loading="lazy"
                     decoding="async"
@@ -243,7 +244,7 @@ export const MenuPage: React.FC<MenuPageProps> = ({
                     onError={(e) => {
                       const el = e.currentTarget;
                       if (!el.src.includes('dish_burrata_pugliese')) {
-                        el.src = '/images/dish_burrata_pugliese_1793363108448.jpg';
+                        el.src = getAssetUrl('/images/dish_burrata_pugliese_1793363108448.jpg');
                       }
                     }}
                   />

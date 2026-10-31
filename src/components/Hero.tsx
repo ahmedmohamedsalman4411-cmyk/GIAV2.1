@@ -2,6 +2,7 @@ import React from 'react';
 import { Calendar, Utensils, MapPin, Sparkles, Navigation } from 'lucide-react';
 import { SupportedLanguage, TRANSLATIONS } from '../i18n/translations';
 import { SiteSettings } from '../types';
+import { getAssetUrl } from '../utils/assetUrl';
 
 interface HeroProps {
   currentLang: SupportedLanguage;
@@ -28,14 +29,14 @@ export const Hero: React.FC<HeroProps> = ({
       {/* Background Image with Measured Contrast Scrim */}
       <div className="absolute inset-0 z-0">
         <img
-          src={settings?.heroImage || '/images/hero_gia_dining_1793363107745.jpg'}
+          src={getAssetUrl(settings?.heroImage) || getAssetUrl('/images/hero_gia_dining_1793363107745.jpg')}
           alt="GIA Italian Restaurant Dubai Mall dining overlooking the Dubai Fountain"
           className="w-full h-full object-cover object-center scale-102 transition-transform duration-1000 ease-out"
           referrerPolicy="no-referrer"
           onError={(e) => {
             const el = e.currentTarget;
             if (!el.src.includes('hero_gia_dining')) {
-              el.src = '/images/hero_gia_dining_1793363107745.jpg';
+              el.src = getAssetUrl('/images/hero_gia_dining_1793363107745.jpg');
             }
           }}
         />

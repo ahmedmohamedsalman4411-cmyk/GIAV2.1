@@ -2,6 +2,7 @@ import React from 'react';
 import { Sparkles, UtensilsCrossed, Award, Wine } from 'lucide-react';
 import { SupportedLanguage, TRANSLATIONS } from '../i18n/translations';
 import { SiteSettings } from '../types';
+import { getAssetUrl } from '../utils/assetUrl';
 
 interface AboutSectionProps {
   currentLang: SupportedLanguage;
@@ -73,14 +74,14 @@ export const AboutSection: React.FC<AboutSectionProps> = ({
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white aspect-[4/5] bg-stone-200">
               <img
-                src="/images/dish_burrata_pugliese_1793363108448.jpg"
+                src={getAssetUrl('/images/dish_burrata_pugliese_1793363108448.jpg')}
                 alt="Artisanal Burrata Pugliese at GIA Dubai"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
                 onError={(e) => {
                   const el = e.currentTarget;
                   if (!el.src.includes('dish_burrata_pugliese')) {
-                    el.src = '/images/dish_burrata_pugliese_1793363108448.jpg';
+                    el.src = getAssetUrl('/images/dish_burrata_pugliese_1793363108448.jpg');
                   }
                 }}
               />

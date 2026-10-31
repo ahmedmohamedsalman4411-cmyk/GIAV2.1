@@ -3,6 +3,7 @@ import { ArrowRight, ArrowLeft, Star, Leaf, Flame, Sparkles } from 'lucide-react
 import { SupportedLanguage, TRANSLATIONS } from '../i18n/translations';
 import { MenuItem } from '../types';
 import { DishSkeleton } from './DishSkeleton';
+import { getAssetUrl } from '../utils/assetUrl';
 
 interface FeaturedDishesProps {
   currentLang: SupportedLanguage;
@@ -80,7 +81,7 @@ export const FeaturedDishes: React.FC<FeaturedDishesProps> = ({
               {/* Dish Image */}
               <div className="relative aspect-[4/3] bg-stone-100 overflow-hidden">
                 <img
-                  src={dish.image}
+                  src={getAssetUrl(dish.image)}
                   alt={getItemName(dish)}
                   loading="lazy"
                   decoding="async"
@@ -89,7 +90,7 @@ export const FeaturedDishes: React.FC<FeaturedDishesProps> = ({
                   onError={(e) => {
                     const el = e.currentTarget;
                     if (!el.src.includes('dish_burrata_pugliese')) {
-                      el.src = '/images/dish_burrata_pugliese_1793363108448.jpg';
+                      el.src = getAssetUrl('/images/dish_burrata_pugliese_1793363108448.jpg');
                     }
                   }}
                 />
