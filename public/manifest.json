@@ -1,0 +1,17 @@
+{
+  "name": "GIA Restaurant Dubai",
+  "short_name": "GIA",
+  "description": "Contemporary Italian dining with panoramic views of the Dubai Fountain",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f5",
+  "theme_color": "#283618",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

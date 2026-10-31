@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix GIA Restaurant Dubai - مطعم جيا دبي",
+  "description": "الموقع الرسمي لمطعم جيا (GIA) الإيطالي المعاصر في دبي مول - استعراض القائمة، حجز الطاولات، لوحة إدارة للمشرف ودعم متعدد اللغات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

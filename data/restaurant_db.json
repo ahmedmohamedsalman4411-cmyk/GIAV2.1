@@ -1,0 +1,575 @@
+{
+  "settings": {
+    "restaurantName": "GIA Dubai",
+    "restaurantNameAr": "مطعم جيا دبي",
+    "logoText": "GIA",
+    "tagline": {
+      "ar": "المطبخ الإيطالي المعاصر مع إطلالة ساحرة على نافورة دبي",
+      "en": "Contemporary Italian dining with panoramic views of the Dubai Fountain",
+      "it": "Cucina italiana contemporanea con vista mozzafiato sulla Fontana di Dubai",
+      "fr": "Cuisine italienne contemporaine avec vue panoramique sur la fontaine de Dubaï",
+      "es": "Cocina italiana contemporánea con vistas panorámicas a la Fuente de Dubái",
+      "de": "Zeitgenössische italienische Küche mit Panoramablick auf die Dubai Fountain",
+      "nl": "Hedendaagse Italiaanse keuken met panoramisch uitzicht op de Dubai Fountain",
+      "pt": "Culinária italiana contemporânea com vista panorâmica da Fonte de Dubai",
+      "hi": "दुबई फाउंटेन के मनोरम दृश्यों के साथ समकालीन इतालवी भोजन",
+      "zh": "俯瞰迪拜喷泉壮丽全景的当代意大利风味美食",
+      "tl": "Kontemporaryong lutuing Italyano na may tanawin ng Dubai Fountain"
+    },
+    "aboutText": {
+      "ar": "يقدم مطعم جيا تجربة طعام إيطالية راقية تجمع بين التقاليد العريقة والابتكار العصري في قلب فاشن أفينيو بدبي مول. نستورد أفضل المكونات الطازجة من إيطاليا لإعداد أطباق المعكرونة المصنوعة يدويًا، والبيتزا الحرفية، والمقبلات الشهية في أجواء أنيقة ومريحة.",
+      "en": "Located in Fashion Avenue at The Dubai Mall, GIA offers a contemporary take on authentic Italian gastronomy. Savor artisanal pasta hand-crafted daily, wood-fired pizzas, and indulgent dolci paired with unobstructed panoramic terrace views of the iconic Dubai Fountain.",
+      "it": "Situato nella Fashion Avenue del Dubai Mall, GIA propone una visione contemporanea dell'autentica gastronomia italiana.",
+      "fr": "Situé à la Fashion Avenue du Dubai Mall, GIA propose une version contemporaine de l'authentique gastronomie italienne.",
+      "es": "Ubicado en Fashion Avenue en The Dubai Mall, GIA ofrece una versión contemporánea de la auténtica gastronomía italiana.",
+      "de": "In der Fashion Avenue der Dubai Mall bietet GIA eine zeitgenössische Interpretation authentischer italienischer Gastronomie.",
+      "nl": "Gelegen aan Fashion Avenue in The Dubai Mall, biedt GIA een eigentijdse kijk op authentieke Italiaanse gastronomie.",
+      "pt": "Localizado na Fashion Avenue do The Dubai Mall, o GIA oferece uma versão contemporânea da autêntica gastronomia italiana.",
+      "hi": "द दुबई मॉल में फैशन एवेन्यू में स्थित, जीआईए प्रामाणिक इतालवी व्यंजनों पर एक समकालीन दृष्टिकोण प्रदान करता है।",
+      "zh": "GIA位于迪拜购物中心时尚大道，以现代视角重构纯正意大利珍馐。",
+      "tl": "Matatagpuan sa Fashion Avenue sa The Dubai Mall, nag-aalok ang GIA ng modernong bersyon ng tunay na lutuing Italyano."
+    },
+    "address": "The Dubai Mall, Fashion Avenue, Downtown Dubai (Overlooking Dubai Fountain)",
+    "addressAr": "دبي مول، فاشن أفينيو، وسط مدينة دبي (إطلالة مباشرة على نافورة دبي)",
+    "googleMapsUrl": "https://www.google.com/maps/place/%D9%85%D8%B7%D8%B9%D9%85+%D8%AC%D9%8A%D8%A7%E2%80%AD/@25.1471314,55.2945414,12z/data=!4m10!1m2!2m1!1srestaurants+in+Dubai!3m6!1s0x3e5f6829dc6e8a3f:0x91a7a6821d362108!8m2!3d25.1971421!4d55.2759743!15sChRyZXN0YXVyYW50cyBpbiBEdWJhaVoWIhRyZXN0YXVyYW50cyBpbiBkdWJhaZIBEml0YWxpYW5fcmVzdGF1cmFudJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQydE9TRmRzV2tWUFZtZDBUMWRHYUUweVpHaGlNalZhVkd0YVVHRnVZeEFC4AEA-gEECCwQRg!16s%2Fg%2F11gf0zxkng?entry=ttu&g_ep=EgoyMDI2MTAyNy4wIKXMDSoASAFQAw%3D%3D",
+    "phone": "+971 4 234 9986",
+    "whatsapp": "+971 50 123 4567",
+    "email": "",
+    "emergencyPhone": "+971 50 999 8877",
+    "openingHoursWeekdays": "10:00 AM – 12:00 AM (Midnight)",
+    "openingHoursWeekends": "10:00 AM – 01:00 AM (Fri, Sat, Sun)",
+    "openingHoursWeekdaysAr": "من 10:00 صباحاً حتى 12:00 منتصف الليل (الأحد - الخميس)",
+    "openingHoursWeekendsAr": "من 10:00 صباحاً حتى 01:00 بعد منتصف الليل (الجمعة - السبت)",
+    "instagramUrl": "https://instagram.com/gia.dubai",
+    "heroImage": "/images/hero_gia_dining_1793363107745.jpg",
+    "lastUpdated": "2026-10-30T12:35:49.741Z",
+    "currency": "AED",
+    "socialLinks": [
+      {
+        "id": "soc-1",
+        "platform": "instagram",
+        "label": "Instagram @gia.dubai",
+        "url": "https://instagram.com/gia.dubai",
+        "isActive": true
+      },
+      {
+        "id": "soc-2",
+        "platform": "whatsapp",
+        "label": "WhatsApp Concierge",
+        "url": "https://wa.me/971501234567",
+        "isActive": true
+      },
+      {
+        "id": "soc-3",
+        "platform": "phone",
+        "label": "Direct Phone Line",
+        "url": "tel:+97142349986",
+        "isActive": true
+      },
+      {
+        "id": "soc-4",
+        "platform": "maps",
+        "label": "Google Maps Navigation",
+        "url": "https://www.google.com/maps/place/%D9%85%D8%B7%D8%B9%D9%85+%D8%AC%D9%8A%D8%A7%E2%80%AD/@25.1471314,55.2945414,12z/data=!4m10!1m2!2m1!1srestaurants+in+Dubai!3m6!1s0x3e5f6829dc6e8a3f:0x91a7a6821d362108!8m2!3d25.1971421!4d55.2759743!15sChRyZXN0YXVyYW50cyBpbiBEdWJhaVoWIhRyZXN0YXVyYW50cyBpbiBkdWJhaZIBEml0YWxpYW5fcmVzdGF1cmFudJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQydE9TRmRzV2tWUFZtZDBUMWRHYUUweVpHaGlNalZhVkd0YVVHRnVZeEFC4AEA-gEECCwQRg!16s%2Fg%2F11gf0zxkng?entry=ttu&g_ep=EgoyMDI2MTAyNy4wIKXMDSoASAFQAw%3D%3D",
+        "isActive": true
+      }
+    ],
+    "seoTitle": "GIA Restaurant Dubai | Contemporary Italian Dining",
+    "seoTitleAr": "مطعم جيا دبي | المطبخ الإيطالي المعاصر في دبي مول",
+    "seoDescription": "Authentic Italian restaurant at Fashion Avenue, The Dubai Mall. Handcrafted pasta, pizza, and stunning Dubai Fountain views.",
+    "seoDescriptionAr": "مطعم إيطالي راقٍ في فاشن أفينيو بدبي مول. استمتع بأطباق الباستا الحرفية، والبيتزا، وإطلالة مباشرة على نافورة دبي.",
+    "canonicalUrl": "https://gia-dubai.ae",
+    "ogImageUrl": "/images/hero_gia_dining_1793363107745.jpg",
+    "keywords": "GIA Dubai, Italian Restaurant Dubai Mall, Dubai Mall Dining, Italian Food Dubai, مطعم جيا, مطعم إيطالي دبي مول"
+  },
+  "reservationSettings": {
+    "serviceOpeningTime": "12:00",
+    "serviceClosingTime": "23:30",
+    "slotIntervalMinutes": 30,
+    "maxGuestsPerParty": 12,
+    "maxCapacityPerSlot": 24,
+    "minNoticeHours": 2,
+    "maxAdvanceDays": 30,
+    "autoConfirm": false,
+    "blackoutDates": [],
+    "instructions": {
+      "ar": "يرجى العلم أن الحجز يخضع للموافقة المسبقة من فريق الاستقبال. يتم الاحتفاظ بالطاولة لمدة 15 دقيقة فقط بعد الموعد المحدد. نرحب بالطلبات والمناسبات الخاصة مسبقاً.",
+      "en": "All table reservations are subject to confirmation by our front desk host team. Tables are held for up to 15 minutes past the reserved time. Special occasions and dietary preferences are handled with care.",
+      "it": "Tutte le prenotazioni sono soggette a conferma da parte della nostra reception.",
+      "fr": "Toutes les réservations sont soumises à la confirmation de notre équipe d'accueil.",
+      "es": "Todas las reservas están sujetas a la confirmación de nuestro equipo de recepción."
+    },
+    "allowWaitlist": true
+  },
+  "menuItems": [
+    {
+      "id": "item-1",
+      "category": "pasta",
+      "names": {
+        "ar": "تاغليوليني بالترافل الأسود (Tagliolini al Tartufo)",
+        "en": "Tagliolini al Tartufo",
+        "it": "Tagliolini al Tartufo Nero",
+        "fr": "Tagliolini à la Truffe Noire",
+        "es": "Tagliolini con Trufa Negra",
+        "de": "Tagliolini mit schwarzem Trüffel",
+        "nl": "Tagliolini met zwarte truffel",
+        "pt": "Tagliolini com Trufa Negra",
+        "hi": "काले ट्रफल के साथ ताग्लियोलिनी",
+        "zh": "黑松露手工细宽面",
+        "tl": "Tagliolini na may Black Truffle"
+      },
+      "descriptions": {
+        "ar": "معكرونة تاغليوليني طازجة محضرة يدوياً، مع شرائح الترافل الأسود الفاخر، وجبنة بارميجيانو ريجيانو المعتقة 24 شهراً ومستحلب الزبدة الإيطالية.",
+        "en": "Handmade fresh egg tagliolini, freshly shaved Umbrian black truffles, 24-month aged Parmigiano Reggiano emulsion.",
+        "it": "Tagliolini freschi fatti a mano con tartufo nero umbro a scaglie e crema di Parmigiano Reggiano 24 mesi.",
+        "fr": "Pâtes tagliolini fraîches faites maison, lamelles de truffe noire d'Ombrie, émulsion de Parmigiano Reggiano 24 mois."
+      },
+      "price": 135,
+      "currency": "AED",
+      "image": "/images/dish_truffle_tagliolini_1793363108755.jpg",
+      "isAvailable": true,
+      "isFeatured": true,
+      "dietaryTags": [
+        "vegetarian",
+        "chef-special"
+      ],
+      "sortOrder": 1,
+      "updatedAt": "2026-10-30T12:35:49.741Z"
+    },
+    {
+      "id": "item-2",
+      "category": "antipasti",
+      "names": {
+        "ar": "بوراتا بولييزي الإيطالية الطازجة (Burrata Pugliese)",
+        "en": "Burrata Pugliese con Datterini",
+        "it": "Burrata Pugliese con Datterini",
+        "fr": "Burrata des Pouilles et Tomates Datterini",
+        "es": "Burrata Pugliese con Tomates Datterini",
+        "de": "Burrata Pugliese mit Datterini-Tomaten",
+        "nl": "Burrata Pugliese met Datterini tomaten",
+        "pt": "Burrata Pugliese com Tomates Datterini",
+        "hi": "ताजा इतालवी बुराटा पनीर",
+        "zh": "普利亚新鲜布拉塔奶酪伴达特里尼番茄",
+        "tl": "Sariwang Italian Burrata Pugliese"
+      },
+      "descriptions": {
+        "ar": "جبن بوراتا كريمي طازج مستورد من بوجليا الإيطالية، يقدم مع طماطم داتيريني المعسولة، وزيت الريحان العضوي ورقائق ملح البحر.",
+        "en": "Fresh creamy artisanal Burrata from Puglia, heirloom sweet datterini tomatoes, cold-pressed basil oil, fleur de sel.",
+        "it": "Burrata artigianale fresca pugliese, pomodorini datterini dolci, olio al basilico spremuto a freddo.",
+        "fr": "Burrata artisanale fraîche des Pouilles, tomates datterini, huile au basilic pressée à froid."
+      },
+      "price": 88,
+      "currency": "AED",
+      "image": "/images/dish_burrata_pugliese_1793363108448.jpg",
+      "isAvailable": true,
+      "isFeatured": true,
+      "dietaryTags": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "sortOrder": 2,
+      "updatedAt": "2026-10-30T12:35:49.741Z"
+    },
+    {
+      "id": "item-3",
+      "category": "pizza",
+      "names": {
+        "ar": "بيتزا مارغريتا فيراتشي (Pizza Margherita Verace)",
+        "en": "Pizza Margherita Verace",
+        "it": "Pizza Margherita Verace Napoletana",
+        "fr": "Pizza Margherita Véritable",
+        "es": "Pizza Margherita Verace",
+        "de": "Echte Pizza Margherita",
+        "nl": "Echte Pizza Margherita",
+        "pt": "Pizza Margherita Verace",
+        "hi": "प्रामाणिक नेपोलिटन पिज्जा मार्गेरिटा",
+        "zh": "正统那不勒斯玛格丽特披萨",
+        "tl": "Tunay na Neapolitan Margherita Pizza"
+      },
+      "descriptions": {
+        "ar": "عجينة مخمرة لـ 48 ساعة مخبوزة على الحطب، مع صلصة طماطم سان مارزانو، وموتزاريلا بوفالو كامبانا الطازجة والريحان الإيطالي.",
+        "en": "48-hour fermented wood-fired dough, San Marzano DOP tomato sauce, fresh buffalo mozzarella from Campania, fragrant sweet basil.",
+        "it": "Impasto a lievitazione lenta di 48 ore nel forno a legna, pomodoro San Marzano DOP, mozzarella di bufala campana, basilico.",
+        "fr": "Pâte fermentée 48h au feu de bois, sauce tomate San Marzano DOP, mozzarella di bufala fraîche, basilic."
+      },
+      "price": 78,
+      "currency": "AED",
+      "image": "/images/dish_woodfired_pizza_1793363109590.jpg",
+      "isAvailable": true,
+      "isFeatured": true,
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "sortOrder": 3,
+      "updatedAt": "2026-10-30T12:35:49.741Z"
+    },
+    {
+      "id": "item-4",
+      "category": "dolci",
+      "names": {
+        "ar": "تيراميسو جيا الكلاسيكي (Tiramisù Tradizionale)",
+        "en": "Traditional GIA Tiramisù",
+        "it": "Tiramisù Tradizionale GIA",
+        "fr": "Tiramisù Traditionnel GIA",
+        "es": "Tiramisú Tradicional GIA",
+        "de": "Traditionelles GIA Tiramisù",
+        "nl": "Traditionele GIA Tiramisù",
+        "pt": "Tiramisù Tradicional GIA",
+        "hi": "पारंपरिक इतालवी तिरामिसु",
+        "zh": "经典意式传统提拉米苏",
+        "tl": "Tradisyonal na Italian Tiramisu"
+      },
+      "descriptions": {
+        "ar": "حلوى التيراميسو الإيطالية الكلاسيكية مع بسكويت السافوياردي المشبع بإسبريسو غني، وكريمة الماسكاربوني المخملية ومسحوق الكاكاو الداكن.",
+        "en": "Classic authentic recipe with espresso-dipped savoiardi ladyfingers, velvety whipped mascarpone mousse, dusted Valrhona cocoa.",
+        "it": "La classica ricetta autentica con savoiardi imbevuti di espresso italiano, crema al mascarpone e cacao amaro Valrhona.",
+        "fr": "Recette authentique classique avec biscuits savoiardi imbibés d'espresso, mousse onctueuse de mascarpone et cacao noir."
+      },
+      "price": 55,
+      "currency": "AED",
+      "image": "/images/dish_classic_tiramisu_1793363110083.jpg",
+      "isAvailable": true,
+      "isFeatured": true,
+      "dietaryTags": [
+        "vegetarian",
+        "chef-special"
+      ],
+      "sortOrder": 4,
+      "updatedAt": "2026-10-30T12:35:49.741Z"
+    },
+    {
+      "id": "item-5",
+      "category": "secondi",
+      "names": {
+        "ar": "سمك السيباس المحمر (Branzino al Forno)",
+        "en": "Pan-Seared Mediterranean Branzino",
+        "it": "Filetto di Branzino al Forno",
+        "fr": "Filet de Bar de Ligne Méditerranéen",
+        "es": "Lubina Mediterránea a la Plancha",
+        "de": "Mittelmeer-Wolfsbarsch",
+        "nl": "Gebakken Zeebaarsfilet",
+        "pt": "Robalo Mediterrâneo Grelhado",
+        "hi": "पैन-सियर्ड मेडिटेरेनियन ब्रान्ज़िनो",
+        "zh": "香煎地中海海鲈鱼柳",
+        "tl": "Pan-Seared Mediterranean Branzino"
+      },
+      "descriptions": {
+        "ar": "فيليه سمك السيباس المتوسطي المشوي بجلد مقرمش، يقدم مع هريس الكرفس، كبر صقلية، طماطم مجففة وصلصة الليمون والأعشاب.",
+        "en": "Crispy skin Mediterranean sea bass fillet, silky celeriac purée, Pantelleria capers, sun-blushed tomatoes, lemon-herb salmoriglio.",
+        "it": "Filetto di branzino con pelle croccante, purè di sedano rapa, capperi di Pantelleria e salsa salmoriglio al limone.",
+        "fr": "Filet de bar croustillant, purée de céleri-rave, câpres de Pantelleria et sauce salmoriglio citronnée."
+      },
+      "price": 165,
+      "currency": "AED",
+      "image": "/images/dish_truffle_tagliolini_1793363108755.jpg",
+      "isAvailable": true,
+      "isFeatured": false,
+      "dietaryTags": [
+        "gluten-free"
+      ],
+      "sortOrder": 5,
+      "updatedAt": "2026-10-30T12:35:49.741Z"
+    },
+    {
+      "id": "item-6",
+      "category": "bevande",
+      "names": {
+        "ar": "مشروب جيا أمالفي المنعش (Amalfi Sunset Mocktail)",
+        "en": "Amalfi Sunset Signature Mocktail",
+        "it": "Amalfi Sunset Mocktail d'Autore",
+        "fr": "Cocktail sans alcool Amalfi Sunset",
+        "es": "Mocktail Exclusivo Amalfi Sunset",
+        "de": "Amalfi Sunset Signature Mocktail",
+        "nl": "Amalfi Sunset Handtekening Mocktail",
+        "pt": "Mocktail Exclusivo Amalfi Sunset",
+        "hi": "अमाल्फी सनसेट सिग्नेचर मॉकटेल",
+        "zh": "阿玛菲日落特调无酒精鸡尾酒",
+        "tl": "Amalfi Sunset Signature Mocktail"
+      },
+      "descriptions": {
+        "ar": "عصير البرتقال الصقلي الأحمر الطازج، منقوع إكليل الجبل العطري، مياه صودا سان بيليجرينو مع رشة من خلاصة زهر البرتقال.",
+        "en": "Fresh Sicilian blood orange reduction, fragrant garden rosemary infusion, San Pellegrino sparkling mineral water, citrus twist.",
+        "it": "Spremuta di arance rosse di Sicilia, infuso di rosmarino fresco, San Pellegrino e scorza di agrumi.",
+        "fr": "Réduction d'oranges sanguines de Sicile, infusion de romarin, eau pétillante San Pellegrino et zeste d'agrumes."
+      },
+      "price": 42,
+      "currency": "AED",
+      "image": "/images/dish_classic_tiramisu_1793363110083.jpg",
+      "isAvailable": true,
+      "isFeatured": false,
+      "dietaryTags": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "sortOrder": 6,
+      "updatedAt": "2026-10-30T12:35:49.741Z"
+    }
+  ],
+  "reservations": [
+    {
+      "id": "res-1793367691304",
+      "bookingRef": "GIA-84038",
+      "customerName": "سعيد الكعبي",
+      "phone": "501234567",
+      "countryCode": "+971",
+      "guestsCount": 2,
+      "date": "2026-11-10",
+      "time": "20:00",
+      "occasion": "Anniversary",
+      "status": "new",
+      "createdAt": "2026-10-30T13:41:31.305Z",
+      "updatedAt": "2026-10-30T13:41:31.305Z"
+    },
+    {
+      "id": "res-1793364450685",
+      "bookingRef": "GIA-78302",
+      "customerName": "Hamdan Al-Maktoum",
+      "phone": "551234567",
+      "countryCode": "+971",
+      "email": "hamdan@example.ae",
+      "guestsCount": 2,
+      "date": "2026-11-08",
+      "time": "19:30",
+      "occasion": "Anniversary",
+      "specialRequests": "Terrace fountain view table please",
+      "status": "confirmed",
+      "createdAt": "2026-10-30T12:47:30.685Z",
+      "updatedAt": "2026-10-30T12:47:44.302Z",
+      "internalNotes": "VIP table reserved on terrace"
+    },
+    {
+      "id": "res-1",
+      "bookingRef": "GIA-92814",
+      "customerName": "Tariq Al-Mansoor",
+      "phone": "509876543",
+      "countryCode": "+971",
+      "email": "tariq.m@example.com",
+      "guestsCount": 4,
+      "date": "2026-11-05",
+      "time": "20:00",
+      "occasion": "Anniversary",
+      "specialRequests": "Fountain view terrace table preferred please.",
+      "status": "confirmed",
+      "internalNotes": "VIP table #12 reserved on fountain terrace.",
+      "createdAt": "2026-10-28T12:35:49.741Z",
+      "updatedAt": "2026-10-29T12:35:49.741Z"
+    },
+    {
+      "id": "res-2",
+      "bookingRef": "GIA-41723",
+      "customerName": "Elena Rossi",
+      "phone": "521122334",
+      "countryCode": "+971",
+      "email": "elena.rossi@example.com",
+      "guestsCount": 2,
+      "date": "2026-11-06",
+      "time": "19:30",
+      "occasion": "Birthday",
+      "specialRequests": "Birthday candle with dessert if possible.",
+      "status": "pending",
+      "internalNotes": "Check with pastry chef for candle presentation.",
+      "createdAt": "2026-10-30T06:35:49.741Z",
+      "updatedAt": "2026-10-30T06:35:49.741Z"
+    }
+  ],
+  "adminUsers": [
+    {
+      "id": "admin-default",
+      "username": "Admin",
+      "password": "2f3bca9f0425811de3975c7cf17cf553db870fd65d514e0b46c71568888776e0394be6a04096125b0d0d6f84529722d544766fdad85caa6f87bd9fe4ffbf4808",
+      "mustChangePassword": true,
+      "role": "superadmin",
+      "createdAt": "2026-10-30T12:35:49.741Z",
+      "permissions": [
+        "view_overview",
+        "view_reservations",
+        "manage_reservations",
+        "manage_reservation_rules",
+        "view_menu",
+        "manage_menu",
+        "edit_prices",
+        "manage_categories",
+        "edit_content",
+        "manage_translations",
+        "manage_contact",
+        "view_logs",
+        "manage_admins"
+      ],
+      "lastLogin": "2026-10-31T14:43:10.319Z",
+      "passwordSalt": "5affe933c44c15c882532b678226e8fa"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1793457987437",
+      "action": "RESERVATION_DELETED",
+      "details": "تم حذف الحجز الملغي/المنتهي نهائياً برقم GIA-13253 للضيف Ahmad Test (2026-11-10 الساعة 19:30).",
+      "timestamp": "2026-10-31T14:46:27.437Z",
+      "performedBy": "Admin"
+    },
+    {
+      "id": "log-1793457987433",
+      "action": "RESERVATION_UPDATED",
+      "details": "Reservation GIA-13253 modified. Status: new -> cancelled.",
+      "timestamp": "2026-10-31T14:46:27.433Z",
+      "performedBy": "Admin"
+    },
+    {
+      "id": "log-1793457987423",
+      "action": "ADMIN_LOGIN_FAILED",
+      "details": "محاولة دخول فاشلة للمشرف 'superadmin'.",
+      "timestamp": "2026-10-31T14:46:27.423Z",
+      "performedBy": "superadmin",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "log-1793457980613",
+      "action": "NEW_RESERVATION",
+      "details": "Booking GIA-13253 created for Ahmad Test (2 guests on 2026-11-10 at 19:30).",
+      "timestamp": "2026-10-31T14:46:20.613Z",
+      "performedBy": "Customer (Online Booking)"
+    },
+    {
+      "id": "log-1793457790319",
+      "action": "ADMIN_LOGIN_SUCCESS",
+      "details": "تم تسجيل دخول المشرف 'Admin' بنجاح برتبة 'superadmin'.",
+      "timestamp": "2026-10-31T14:43:10.319Z",
+      "performedBy": "Admin",
+      "ipAddress": "102.42.198.209, 169.254.169.126"
+    },
+    {
+      "id": "log-1793450508033",
+      "action": "RESERVATION_DELETED",
+      "details": "تم حذف الحجز الملغي/المنتهي نهائياً برقم GIA-44330 للضيف Test Cancel Client (2026-11-20 الساعة 18:00).",
+      "timestamp": "2026-10-31T12:41:48.033Z",
+      "performedBy": "Admin"
+    },
+    {
+      "id": "log-1793450505031",
+      "action": "RESERVATION_UPDATED",
+      "details": "Reservation GIA-44330 modified. Status: new -> cancelled.",
+      "timestamp": "2026-10-31T12:41:45.031Z",
+      "performedBy": "Admin"
+    },
+    {
+      "id": "log-1793450488306",
+      "action": "NEW_RESERVATION",
+      "details": "Booking GIA-44330 created for Test Cancel Client (2 guests on 2026-11-20 at 18:00).",
+      "timestamp": "2026-10-31T12:41:28.306Z",
+      "performedBy": "Customer (Online Booking)"
+    },
+    {
+      "id": "log-1793450482146",
+      "action": "ADMIN_LOGIN_SUCCESS",
+      "details": "تم تسجيل دخول المشرف 'Admin' بنجاح برتبة 'superadmin'.",
+      "timestamp": "2026-10-31T12:41:22.146Z",
+      "performedBy": "Admin",
+      "ipAddress": "::ffff:127.0.0.1"
+    },
+    {
+      "id": "log-1793450474457",
+      "action": "ADMIN_LOGIN_FAILED",
+      "details": "محاولة دخول فاشلة للمشرف 'superadmin'.",
+      "timestamp": "2026-10-31T12:41:14.457Z",
+      "performedBy": "superadmin",
+      "ipAddress": "::ffff:127.0.0.1"
+    },
+    {
+      "id": "log-1793367691305",
+      "action": "NEW_RESERVATION",
+      "details": "Booking GIA-84038 created for سعيد الكعبي (2 guests on 2026-11-10 at 20:00).",
+      "timestamp": "2026-10-30T13:41:31.305Z",
+      "performedBy": "Customer (Online Booking)"
+    },
+    {
+      "id": "log-1793367687513",
+      "action": "ADMIN_LOGIN",
+      "details": "Admin user 'Admin' logged in successfully.",
+      "timestamp": "2026-10-30T13:41:27.513Z",
+      "performedBy": "Admin"
+    },
+    {
+      "id": "log-1793364464302",
+      "action": "RESERVATION_UPDATED",
+      "details": "Reservation GIA-78302 modified. Status: new -> confirmed.",
+      "timestamp": "2026-10-30T12:47:44.302Z",
+      "performedBy": "Admin"
+    },
+    {
+      "id": "log-1793364450685",
+      "action": "NEW_RESERVATION",
+      "details": "Booking GIA-78302 created for Hamdan Al-Maktoum (2 guests on 2026-11-08 at 19:30).",
+      "timestamp": "2026-10-30T12:47:30.685Z",
+      "performedBy": "Customer (Online Booking)"
+    },
+    {
+      "id": "log-1",
+      "action": "SYSTEM_INITIALIZED",
+      "details": "Database initialized with authentic GIA Dubai settings and menu items.",
+      "timestamp": "2026-10-30T12:35:49.741Z",
+      "performedBy": "System"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "key": "antipasti",
+      "names": {
+        "ar": "المقبلات والبروشكيتا",
+        "en": "Antipasti & Bruschetta",
+        "it": "Antipasti"
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "cat-2",
+      "key": "pasta",
+      "names": {
+        "ar": "الباستا الطازجة المصنوعة يدوياً",
+        "en": "Fresh Handmade Pasta",
+        "it": "Pasta Fresca Artigianale"
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "cat-3",
+      "key": "pizza",
+      "names": {
+        "ar": "البيتزا الإيطالية الحرفية",
+        "en": "Artisanal Sourdough Pizza",
+        "it": "Pizza Artigianale"
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "cat-4",
+      "key": "secondi",
+      "names": {
+        "ar": "الأطباق الرئيسية واللحوم والمأكولات البحرية",
+        "en": "Main Courses & Seafood",
+        "it": "Secondi Piatti & Pesce"
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "cat-5",
+      "key": "dolci",
+      "names": {
+        "ar": "الحلويات الإيطالية الفاخرة",
+        "en": "Artisanal Desserts",
+        "it": "Dolci Tradizionali"
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "cat-6",
+      "key": "beverages",
+      "names": {
+        "ar": "المشروبات والكوكتيلات المنعشة",
+        "en": "Mocktails & Beverages",
+        "it": "Bevande & Mocktails"
+      },
+      "sortOrder": 6
+    }
+  ]
+}
